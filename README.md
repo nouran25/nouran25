@@ -1,6 +1,5 @@
 # Hi there, I'm Nouran 👋
 
-# 💫 About Me:
 ### 💡 About Me<br>- 🎓 Recent Engineering Graduate with a strong passion for AI, Machine Learning, and Robotics<br>- 🤖 Built AI-powered systems for autonomous driving, robotic arms, and emotion detection<br>- 💻 Experienced in developing ML models, working with embedded systems, and deploying web applications<br>- 🌱 Continuously learning and exploring new technologies to make a positive impact through innovation
 
 
